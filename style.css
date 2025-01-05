@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+
+  body{
+    
+    background: linear-gradient(45deg,orange,pink);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+  }
+  
+  .container{
+    padding: 20px ;
+    border-radius: 10px;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    background: pink;
+    height: 40%;
+    width: 300px;
+    
+  }
+  h1{
+   
+    margin-bottom: 5px;
+  }
+  button{
+    background: blue;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 4px;
+    margin-bottom: 10px;
+  
+  }
+  input{
+    text-align: center;
+    padding: 5px 6px 5px ;
+    border: none;
+    border-radius: 5px;
+    
+  }
+ 
